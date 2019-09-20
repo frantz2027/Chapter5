@@ -72,7 +72,7 @@ public class Triangle
     double base = Double.parseDouble(baseString);
     double equalSide = Double.parseDouble(equalSideString);
     base = base / 2;
-    rightTriangleMathAB();
+    ///rightTriangleMathAB();
 
     }
     public static void solveEquilateral()
