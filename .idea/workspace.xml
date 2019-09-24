@@ -49,11 +49,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CondoSales.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CondoSales.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Assignments/CondoSales.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RandomGuess.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Assignments/RandomGuess.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RockPaperScissors.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Assignments/RockPaperScissors.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -86,10 +104,12 @@
         <option value="$PROJECT_DIR$/src/Debugging/FixDebuggingFive4.java" />
         <option value="$PROJECT_DIR$/src/Assignments/CellphoneService.java" />
         <option value="$PROJECT_DIR$/src/Assignments/CondoSales.java" />
+        <option value="$PROJECT_DIR$/src/Assignments/RandomGuess.java" />
+        <option value="$PROJECT_DIR$/src/Assignments/RockPaperScissors.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="102" />
     <option name="width" value="1400" />
@@ -101,6 +121,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,7 +156,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -155,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CellphoneService">
+  <component name="RunManager" selected="Application.RandomGuess">
     <configuration name="CellphoneService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assignments.CellphoneService" />
       <module name="Chapter 5" />
@@ -167,13 +187,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FixDebugFive3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Debugging.FixDebugFive3" />
+    <configuration name="CondoSales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignments.CondoSales" />
       <module name="Chapter 5" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Debugging.*" />
+          <option name="PATTERN" value="Assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,13 +220,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FixDebugingFive3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Debugging.FixDebugingFive3" />
+    <configuration name="RandomGuess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.RandomGuess" />
       <module name="Chapter 5" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Debugging.*" />
+          <option name="PATTERN" value="Examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,19 +273,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.FixDebugFive3" />
       <item itemvalue="Application.CellphoneService" />
-      <item itemvalue="Application.FixDebugingFive3" />
       <item itemvalue="Application.FixDebuggingFive3" />
       <item itemvalue="Application.FixDebuggingFive4" />
+      <item itemvalue="Application.CondoSales" />
+      <item itemvalue="Application.RandomGuess" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RandomGuess" />
+        <item itemvalue="Application.CondoSales" />
         <item itemvalue="Application.CellphoneService" />
         <item itemvalue="Application.FixDebuggingFive4" />
         <item itemvalue="Application.FixDebuggingFive3" />
-        <item itemvalue="Application.FixDebugingFive3" />
-        <item itemvalue="Application.FixDebugFive3" />
       </list>
     </recent_temporary>
   </component>
@@ -283,21 +303,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3298292" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3298292" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3298292" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24930556" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24930556" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -310,13 +332,68 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.3298292" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Assignments/CellphoneService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignments/EvenOdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignments/CondoSales.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignments/AscendingAndDescending.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="84" selection-start-line="51" selection-start-column="84" selection-end-line="51" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignments/CellphoneService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignments/EvenOdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignments/CondoSales.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignments/AscendingAndDescending.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="84" selection-start-line="51" selection-start-column="84" selection-end-line="51" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Assignments/CellphoneService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -528,10 +605,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignments/RandomGuess2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Assignments/CondoSales.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignments/RandomGuess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignments/RockPaperScissors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
         </state>
       </provider>
     </entry>
